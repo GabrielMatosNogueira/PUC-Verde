@@ -16,4 +16,6 @@ int main(){
     slr = slr + vendas;
     
     printf("Vendedor: %s\nComissao: R$%.2lf\nSalario: R$%.2lf", nome, vendas, slr);
+    
+    return 0;
 }
